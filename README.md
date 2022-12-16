@@ -9,7 +9,7 @@
     It would mean alot if you starred my repository :)
     
     * Link 🌐
-      https://kylee.ml
+      https://kyleearroyo.github.io/htmlcssjs
     
     <3 -kyleearroyo
 
