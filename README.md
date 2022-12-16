@@ -1,2 +1,6 @@
-# JavaScript-Learning
-I spent the entire 30 minutes learning JavaScript. and determining my maximum reach!
+# Html,Css,Js
+ * Info
+  
+  This repository is the first repo to have js!
+  Kind of good right??
+
