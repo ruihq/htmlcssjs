@@ -12,7 +12,7 @@
     It would mean alot if you starred my repository :)
     
     * Link 🌐
-      https://ruinaigelreogo.github.io/htmlcssjs
+      https://ruihq.github.io/htmlcssjs
     
     <3 -Rui Naigel Reogo
 
